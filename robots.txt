@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etionast.github.io/sitemap.html.gz
+Sitemap: https://etionast.github.io/app/sitemap.html.gz
+Sitemap: https://etionast.github.io/assets/sitemap.html.gz
+Sitemap: https://etionast.github.io/css/sitemap.html.gz
+Sitemap: https://etionast.github.io/includes/sitemap.html.gz
+Sitemap: https://etionast.github.io/item/sitemap.html.gz
+Sitemap: https://etionast.github.io/src/sitemap.html.gz
